@@ -13,7 +13,7 @@ const Balance = () => {
 
   return (
     <>
-      <h4>Account Balace</h4>
+      <h4>Account Balance</h4>
       {/* Credit and Debit Balance  */}
       <h1>${balance}</h1>
     </>
